@@ -42,5 +42,11 @@
   "Doppelganger": "false",
   "PiercingWail": "false",
   "WindmillStrike": "false",
-  "Alpha": "false"
+  "Alpha": "false",
+  "Eruption": "false",
+  "Writhe": "false",
+  "Pride": "false",
+  "AscendersBane": "false",
+  "Normality": "false",
+  "Omniscience": "false"
 }
