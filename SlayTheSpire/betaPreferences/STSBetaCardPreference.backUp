@@ -46,7 +46,11 @@
   "Eruption": "false",
   "Writhe": "false",
   "Pride": "false",
-  "AscendersBane": "true",
+  "AscendersBane": "false",
   "Normality": "false",
-  "Omniscience": "false"
+  "Omniscience": "false",
+  "Ghostly": "false",
+  "Halt": "false",
+  "Study": "false",
+  "J.A.X.": "true"
 }
